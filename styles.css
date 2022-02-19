@@ -49,6 +49,10 @@
   .threevert {
     height: 33.3%;
   }
+
+  .sixvert {
+    height: 16.67%;
+  }
   
   .threehoriz {
     width: 33.3%;
